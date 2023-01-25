@@ -1,6 +1,6 @@
 # Java101
 
-Merhaba bu repoda Java patikasında verilen ödevler bulunuyor 
+Merhaba bu depoda Java patikasında verilen ödevler bulunuyor 
 
 
 www.patika.dev
