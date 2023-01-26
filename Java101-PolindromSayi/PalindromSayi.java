@@ -2,17 +2,17 @@ package metotlar;
 
 import java.util.Scanner;
 
-public class PolindromSayi {
+public class PalindromSayi {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         System.out.print("sayı giriniz : ");
 
         int sayi = scn.nextInt();
         if (Pdsayi(sayi)==sayi){
-            System.out.println("bu bir polindrom sayıdır ");
+            System.out.println("bu bir palindrom sayıdır ");
         }
         else {
-            System.out.println("Bu bir polindrom sayı değildir");
+            System.out.println("Bu bir palindrom sayı değildir");
         }
     }
     static int BasamakBulma(int sayi ){
